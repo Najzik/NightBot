@@ -1,0 +1,2 @@
+# NightBot
+Discord Bot NightBot
